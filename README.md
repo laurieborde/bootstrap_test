@@ -1,2 +1,0 @@
-# bootstrap_test
-Test
